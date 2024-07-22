@@ -58,7 +58,8 @@ Este projeto foi desenvolvido utilizando React Native, um framework open-source 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
 
-## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+### Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](/LICENSE) para mais informações.
 
